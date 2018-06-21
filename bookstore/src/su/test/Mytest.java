@@ -32,6 +32,7 @@ import su.web.servlet.PaymentUtil;
 
 public class Mytest {
 	@Test
+	//test test
 	public void fun() throws SQLException{
 		Connection con=JdbcUtils.getConnection();
 		System.out.println(con);
